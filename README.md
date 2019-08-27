@@ -13,7 +13,8 @@ Crypto_Sentiment.pdf - Document about this project
 
 Datasets/
 
-        quote.tok.gt9 - Subjective Sentences
+
+	quote.tok.gt9 - Subjective Sentences
 	
 	plot.tok.gt9~ - Objective Sentences
 	
