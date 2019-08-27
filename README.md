@@ -5,7 +5,8 @@
 ## **INTRODUCTION**
 
 This project consists in scrape twitter data and check if there is any relation in bitcoin price flutuations
-
+        
+        
 
 
 
@@ -30,11 +31,29 @@ Datasets/
 
 
 
-## **INSTRUCTIONS**
+## **HOW TO USE**
 
-In order to run Crypto_Sentiment.ipynb you just need to install the packages first.
+In order to run Crypto_Sentiment.ipynb you just need to click the "Open in Colab" button at the top. 
+You need to upload the datasets manually.
+        
+        
 
-You need to upload the datasets manually if you run in Google Colab
+
+
+## **ENVIRONMENT**
+
+Google Colaboratory
+Pandas
+Numpy
+Matplotlib
+Seaborn
+scikit-learn
+twitterscrapter 1.1
+nltk
+        
+        
+
+
 
 
 ## **CONTACT**
