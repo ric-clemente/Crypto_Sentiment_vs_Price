@@ -7,11 +7,11 @@ This project consists in scrape twitter data and check if there is any relation 
 
 **CONTENTS**
 
-1.Crypto_Sentiment.ipynb - Main Script
+Crypto_Sentiment.ipynb - Main Script
 
-2.Crypto_Sentiment.pdf - Document about this project
+Crypto_Sentiment.pdf - Document about this project
 
-3.Datasets/
+Datasets/
 
         quote.tok.gt9 - Subjective Sentences
 	
