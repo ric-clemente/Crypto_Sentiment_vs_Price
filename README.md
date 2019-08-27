@@ -1,17 +1,18 @@
-Introduction
+**INTRODUCTION**
 
 This project consists in scrape twitter data and check if there is any relation in bitcoin price flutuations
 
 
 
 
-Contents 
+**CONTENTS**
 
-Crypto_Sentiment.ipynb - Main Script
+1.Crypto_Sentiment.ipynb - Main Script
 
-Crypto_Sentiment.pdf - Document about this project
+2.Crypto_Sentiment.pdf - Document about this project
 
-Datasets/
+3.Datasets/
+
         quote.tok.gt9 - Subjective Sentences
 	
 	plot.tok.gt9~ - Objective Sentences
@@ -24,13 +25,13 @@ Datasets/
 
 
 
-Instructions
+**INSTRUCTIONS**
 
 In order to run Crypto_Sentiment.ipynb you just need to install the packages first.
 You need to upload the datasets manually if you run in Google Colab
 
 
-Contact
+**CONTACT**
 I like to hear suggestions and feedback . You can send me a tweet or email!
 
 Email:
