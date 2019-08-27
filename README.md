@@ -1,14 +1,15 @@
 # Crypto_Sentiment_Vs_Price.info
 
 
-**INTRODUCTION**
+
+## **INTRODUCTION**
 
 This project consists in scrape twitter data and check if there is any relation in bitcoin price flutuations
 
 
 
 
-**CONTENTS**
+## **CONTENTS**
 
 Crypto_Sentiment.ipynb - Main Script
 
@@ -29,14 +30,14 @@ Datasets/
 
 
 
-**INSTRUCTIONS**
+## **INSTRUCTIONS**
 
 In order to run Crypto_Sentiment.ipynb you just need to install the packages first.
 
 You need to upload the datasets manually if you run in Google Colab
 
 
-**CONTACT**
+## **CONTACT**
 
 I like to hear suggestions and feedback . You can send me a tweet or email!
 
