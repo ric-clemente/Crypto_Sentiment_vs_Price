@@ -34,12 +34,15 @@ You need to upload the datasets manually if you run in Google Colab
 
 
 **CONTACT**
+
 I like to hear suggestions and feedback . You can send me a tweet or email!
 
 Email:
+
 30000794@students.ual.pt
 
 Twitter:
+
 https://twitter.com/EvRicRose
 
 
