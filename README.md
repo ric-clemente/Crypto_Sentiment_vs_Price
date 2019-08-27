@@ -43,12 +43,19 @@ You need to upload the datasets manually.
 ## **ENVIRONMENT**
 
 Google Colaboratory
+
 Pandas
+
 Numpy
+
 Matplotlib
+
 Seaborn
+
 scikit-learn
+
 twitterscrapter 1.1
+
 nltk
         
         
