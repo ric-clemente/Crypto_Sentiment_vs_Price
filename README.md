@@ -29,6 +29,7 @@ Datasets/
 **INSTRUCTIONS**
 
 In order to run Crypto_Sentiment.ipynb you just need to install the packages first.
+
 You need to upload the datasets manually if you run in Google Colab
 
 
