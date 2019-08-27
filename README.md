@@ -34,6 +34,7 @@ Datasets/
 ## **HOW TO USE**
 
 In order to run Crypto_Sentiment.ipynb you just need to click the "Open in Colab" button at the top. 
+
 You need to upload the datasets manually.
         
         
