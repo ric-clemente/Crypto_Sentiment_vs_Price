@@ -1,3 +1,6 @@
+# Crypto_Sentiment_Vs_Price.info
+
+
 **INTRODUCTION**
 
 This project consists in scrape twitter data and check if there is any relation in bitcoin price flutuations
