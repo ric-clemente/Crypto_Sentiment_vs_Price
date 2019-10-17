@@ -70,11 +70,7 @@ I like to hear suggestions and feedback . You can send me a tweet or email!
 
 Email:
 
-30000794@students.ual.pt
-
-Twitter:
-
-https://twitter.com/EvRicRose
+ricardomiguelrosaclemente@gmail.com
 
 
 
