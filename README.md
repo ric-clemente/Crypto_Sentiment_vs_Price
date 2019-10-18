@@ -66,7 +66,7 @@ nltk
 
 ## **CONTACT**
 
-I like to hear suggestions and feedback . You can send me a tweet or email!
+I like to hear suggestions and feedback .
 
 Email:
 
